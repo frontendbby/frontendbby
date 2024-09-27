@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on more projects and meet more girls in the tech field from which I can learn a lot!
 - 📫 I can handle Excel, Python, SAS and IBM SPSS
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like birds and Niklas Luhmann.
+- ⚡ Fun fact: I like birds, watching policial tv shows, Blackpink and Kanye West a lot.
   ![banner](/ejemplo.png)
 <!---
 frontendbby/frontendbby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
