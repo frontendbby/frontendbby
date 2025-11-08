@@ -1,1 +1,2 @@
-i actually don´t have too much to say
+AI Engineering student / sociologist
+QA Engineer
