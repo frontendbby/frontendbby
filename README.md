@@ -2,94 +2,97 @@
 
 # Jessica Melani Romero Lora
 ### Complex Systems Scientist & AI Research Engineer
-*M.Eng. Candidate at Metropolitan Polytechnic University of Hidalgo | Data Quality Engineer at Shift Technology*
+*M.Sc. Candidate at Metropolitan Polytechnic University of Hidalgo | Data Quality Engineer at Shift Technology*
 
-[![Email](https://img.shields.io/badge/Email-soymelanieromero%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:soymelanieromero@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jessica-romero-lora/)
-[![Scholar](https://img.shields.io/badge/Research-Google_Scholar-4285F4?style=flat-square&logo=google-scholar)]()
-[![CV](https://img.shields.io/badge/CV-Download_PDF-b31b1b?style=flat-square&logo=adobe-acrobat-reader)](./CV2026.pdf)
+[![Email](https://img.shields.io/badge/Email-Contact-0052cc?style=flat-square&logo=gmail&logoColor=white)](mailto:soymelanieromero@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessica-romero-lora/)
+[![CV](https://img.shields.io/badge/CV-Download_PDF-b31b1b?style=flat-square&logo=adobeacrobatreader&logoColor=white)](./CV2026.pdf)
 
 </div>
 
 ---
 
-## Research Statement
+## I. Research Statement
 
-I am an interdisciplinary researcher standing at the convergence of **Complex Systems Theory**, **Quantitative Sociology**, and **Artificial Intelligence**. My work bridges the gap between theoretical social frameworks and computational design, focusing on **Systemic Robustness**, **Contextual Integrity**, and **Anomaly Detection** in high-stakes socio-technical systems.
+I am an interdisciplinary researcher operating at the convergence of **Complex Systems Theory**, **Quantitative Sociology**, and **Artificial Intelligence**. My work bridges the gap between theoretical social frameworks and computational design, focusing on **Systemic Robustness**, **Contextual Integrity**, and **Anomaly Detection** in high-entropy socio-technical systems.
 
-Currently, I aim to contribute to the **ELLIS network** agenda by developing trustworthy AI architectures that are resilient to the stochastic nature of human behavior and compliant with rigorous regulatory standards (GDPR/EU AI Act).
-
----
-
-## Core Research Interests
-
-* **Systemic Anomaly Detection:** Mathematical modeling of reliability in high-dimensional, imbalanced datasets (e.g., Fraud Detection, Rare Disease Phenotyping).
-* **Socio-technical Systems:** Integrating sociological definitions of fairness and structural inequality into algorithmic objective functions.
-* **Digital Twins & Control Theory:** Utilizing Fuzzy Inference Systems (FIS) for non-linear optimization in physical constraints.
+Unlike traditional engineering approaches that view data in isolation, I treat datasets as artifacts of complex, non-linear systems. My primary objective is to contribute to the **ELLIS network** agenda by developing trustworthy AI architectures that are resilient to the stochastic nature of human behavior, mathematically robust against class imbalance, and compliant with rigorous regulatory standards (GDPR/EU AI Act).
 
 ---
 
-## Selected Research Implementations
+## II. Selected Research Implementations
 
-### 1. Phenotypic Classification of Neurofibromatosis Type 1 (NF1)
-> *A machine learning framework for reducing diagnostic latency in rare clinical phenotypes.*
+### 1. Systemic Anomaly Detection in InsurTech Ecosystems
+*Role: Lead Research Engineer (Shift Technology)*
 
-* **Objective:** Early stratification of clinical phenotypes using predictive risk-classification models.
-* **Methodology:** Implemented an **Ensemble Learning framework** (XGBoost, Random Forest). Utilized **L1 Regularization (Lasso)** to enforce sparsity and isolate critical clinical markers among high-dimensional noise.
-* **Optimization:** Minimized the objective function with a sparsity constraint:
-    $$\min_{\beta} \left( \frac{1}{2N} \sum_{i=1}^{N} (y_i - x_i^T \beta)^2 + \lambda \sum_{j=1}^{p} |\beta_j| \right)$$
+**The Systemic Challenge:**
+Fraud in insurance markets does not manifest as linear outliers but as complex topological clusters within highly imbalanced datasets. Standard classification fails to capture the minority class without compromising the systemic validity of the model (False Positives).
 
-### 2. Digital Twin Simulation: EV Battery Survival
-> *Optimization of trade-offs between longevity and mission time using Fuzzy Logic.*
+**Methodological Architecture:**
+I designed a detection framework for the California market, evaluating three concurrent architectures: Logistic Regression (stochastic baseline), Random Forest (variance reduction), and **XGBoost**. The final pipeline utilized **SMOTE (Synthetic Minority Over-sampling Technique)** to learn the topology of fraud in critical variables rather than simply oversampling.
 
-* **Implementation:** Developed a **Fuzzy Inference System (FIS)** mapping non-linear inputs (SoC, Distance) to continuous membership functions to optimize energy usage under uncertainty.
+* **Geospatial Topology:** Mapped concentration of risk in specific jurisdictions to identify spatial autocorrelation.
+* **Distribution Analysis:** Identified medical overbilling patterns using Beta distributions.
+* **Outcome:** Prioritized **Recall** over Accuracy, resulting in a **600% increase in the detection rate**, directly optimizing technical reserves and preventing systemic capital leakage.
+
+**Mathematical Foundation (Gradient Boosting Optimization):**
+To correct residual biases in real-time, the model minimizes the regularized objective function:
+$$\mathcal{L}(\phi) = \sum_{i} l(\hat{y}_i, y_i) + \sum_{k} \Omega(f_k)$$
+Where $\Omega(f_k) = \gamma T + \frac{1}{2}\lambda ||w||^2$ controls the complexity of the trees, preventing overfitting in the sparse, high-dimensional feature space.
+
+### 2. Phenotypic Classification of Neurofibromatosis Type 1 (NF1)
+*Role: Learning Specialization Project*
+
+**The Systemic Challenge:**
+Rare disease diagnosis suffers from high dimensionality and noise. The objective was to reduce diagnostic latency by isolating critical clinical markers from irrelevant phenotypic data.
+
+**Methodological Architecture:**
+Implemented an **Ensemble Learning framework** incorporating XGBoost and Random Forest. Crucially, I applied **L1 Regularization (Lasso)** to enforce sparsity. This acted as a feature selection mechanism, effectively zeroing out coefficients for non-predictive symptoms and revealing the core phenotypic signal.
+
+**Mathematical Foundation (L1 Regularization):**
+The system solves for the coefficient vector $\beta$ that minimizes the residual sum of squares subject to the sum of the absolute values of the coefficients:
+$$\min_{\beta} \left( \frac{1}{2N} \sum_{i=1}^{N} (y_i - x_i^T \beta)^2 + \lambda \sum_{j=1}^{p} |\beta_j| \right)$$
+This geometric constraint creates a "diamond" shape in the contour plot, allowing the solution to hit the axis and set irrelevant features strictly to zero.
+
+### 3. Digital Twin Simulation: EV Battery Survival
+*Role: Simulation Lead*
+
+**The Systemic Challenge:**
+Optimizing the trade-off between battery longevity and mission completion time involves non-linear inputs (State of Charge, Distance, Driver Aggression) that cannot be modeled with binary logic.
+
+**Methodological Architecture:**
+Developed a **Fuzzy Inference System (FIS)**. Unlike crisp logic, this system maps inputs to continuous membership functions. The controller regulates driving modes (Survival, Eco, Sport) dynamically, creating a feedback loop that adapts to the system's current energy state.
+
+**Mathematical Foundation (Fuzzy Logic):**
+The degree of membership $\mu_{A}(x)$ for a given input $x$ in fuzzy set $A$ is defined by the Gaussian membership function:
+$$\mu_{A}(x, c, \sigma) = e^{-\frac{1}{2}\left(\frac{x-c}{\sigma}\right)^2}$$
+Defuzzification was performed using the Centroid method to convert the fuzzy inference output into a precise control signal for the vehicle.
 
 ---
 
-## Academic & Research Experience
+## III. Academic & Research Experience
 
-### **Current Research & Engineering**
+My transition to AI Engineering is grounded in a rigorous background in sociological research and complexity theory.
 
-| Role | Focus |
+| **Role & Institution** | **Research Focus** |
 | :--- | :--- |
-| **Data Quality Engineer**<br>@ *Shift Technology* (2024 - Present) | **Algorithmic Governance:** Architecting privacy-preserving pipelines (GDPR) and mining unstructured data (NoSQL) for fraud detection models. |
-| **Visiting Research Fellow**<br>@ *University of Essex* (2023 - 2024) | **Computational Social Science:** Applied advanced statistical techniques to large-scale datasets to identify emergent patterns in behavioral data. |
-
-### **Foundational Research (Sociology & Complexity)**
-
-Prior to my transition to AI Engineering, I held several research appointments focused on structural analysis and metric design:
-
-* **Metric Design Evaluator (2021):** *Institute of Social Development (Hidalgo).*
-    * Designed quantitative indicators to evaluate the efficacy of the "Hidalgo Model of Care", bridging public policy with statistical evaluation.
-* **Research Fellow (2020):** *UNESCO / COLMEX / CLACSO.*
-    * Selected for the "Inequalities and Youth in Latin America" project. Analyzed systemic stratification variables to understand precariousness.
-* **Digital Sociology Researcher (2019):** *UNAM (National Autonomous University of Mexico).*
-    * Investigated "Onlife" digital environments, analyzing feedback loops between online platforms and youth subjectivity.
+| **Data Quality Engineer**<br>Shift Technology (2024 - Present) | **Algorithmic Governance:** Architecting privacy-preserving pipelines (GDPR) and mining unstructured data (NoSQL) to ensure contextual integrity in fraud models. |
+| **Visiting Research Fellow**<br>University of Essex (2023 - 2024) | **Computational Social Science:** Applied advanced statistical techniques to large-scale datasets to identify emergent patterns in behavioral data. |
+| **Metric Design Evaluator**<br>Institute of Social Development (2021) | **Systemic Evaluation:** Designed quantitative indicators to evaluate the efficacy of the "Hidalgo Model of Care", bridging public policy with statistical evaluation. |
+| **Research Fellow**<br>UNESCO / COLMEX / CLACSO (2020) | **Structural Analysis:** Selected for the "Inequalities and Youth in Latin America" project. Analyzed systemic stratification variables to understand precariousness in emerging demographics. |
+| **Digital Sociology Researcher**<br>UNAM (2019) | **Onlife Systems:** Investigated digital environments, analyzing the feedback loops between online platforms and youth subjectivity. |
 
 ---
 
-## Education
+## IV. Education
 
-* **M.Eng. in AI Engineering** | *Metropolitan Polytechnic University of Hidalgo* (2025 - 2027)
+* **M.Sc. in AI Engineering** | *Metropolitan Polytechnic University of Hidalgo* (2025 - 2027)
 * **B.A. in Sociology (Complexity Specialization)** | *Universidad Autónoma del Estado de Hidalgo*
-    * **GPA:** 9.75 / 10 (High Honors)
-    * **Thesis Focus:** Systemic impact of external shocks (COVID-19) on socio-economic indicators.
-
----
-
-## Technical Stack
-
-| Domain | Tools & Frameworks |
-| :--- | :--- |
-| **Machine Learning** | Python, PyTorch, Scikit-learn, XGBoost, TensorFlow |
-| **Complex Systems** | Graph Neural Networks (GNNs), Fuzzy Logic, Agent-Based Modeling |
-| **Data Engineering** | SQL, NoSQL (MongoDB), Distributed Systems |
-| **Visualization** | Matplotlib, Seaborn, Scientific Plotting |
+    * **Honors:** GPA 9.75 / 10.
+    * **Thesis:** Systemic impact of external shocks (COVID-19) on socio-economic indicators.
 
 ---
 
 <div align="center">
-    <p><i>"The study of complex systems is the study of how parts of a system give rise to the collective behaviors of the system, and how the system interacts with its environment."</i></p>
-    <br>
     <sub>© 2026 Jessica Melani Romero Lora. Open for academic collaboration.</sub>
 </div>
