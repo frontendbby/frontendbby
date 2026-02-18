@@ -2,7 +2,7 @@
 
 # Jessica Melani Romero Lora
 ### Complex Systems Scientist & AI Research Engineer
-*M.Sc. Candidate at Metropolitan Polytechnic University of Hidalgo | Data Quality Engineer at Shift Technology*
+*M.Eng. Candidate at Metropolitan Polytechnic University of Hidalgo | Data Quality Engineer at Shift Technology*
 
 [![Email](https://img.shields.io/badge/Email-soymelanieromero%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:soymelanieromero@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jessica-romero-lora/)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🔬 Research Statement
+## Research Statement
 
 I am an interdisciplinary researcher standing at the convergence of **Complex Systems Theory**, **Quantitative Sociology**, and **Artificial Intelligence**. My work bridges the gap between theoretical social frameworks and computational design, focusing on **Systemic Robustness**, **Contextual Integrity**, and **Anomaly Detection** in high-stakes socio-technical systems.
 
@@ -21,7 +21,7 @@ Currently, I aim to contribute to the **ELLIS network** agenda by developing tru
 
 ---
 
-## 🧠 Core Research Interests
+## Core Research Interests
 
 * **Systemic Anomaly Detection:** Mathematical modeling of reliability in high-dimensional, imbalanced datasets (e.g., Fraud Detection, Rare Disease Phenotyping).
 * **Socio-technical Systems:** Integrating sociological definitions of fairness and structural inequality into algorithmic objective functions.
@@ -29,7 +29,7 @@ Currently, I aim to contribute to the **ELLIS network** agenda by developing tru
 
 ---
 
-## 🛠 Selected Research Implementations
+## Selected Research Implementations
 
 ### 1. Phenotypic Classification of Neurofibromatosis Type 1 (NF1)
 > *A machine learning framework for reducing diagnostic latency in rare clinical phenotypes.*
@@ -46,7 +46,7 @@ Currently, I aim to contribute to the **ELLIS network** agenda by developing tru
 
 ---
 
-## 🏛️ Academic & Research Experience
+## Academic & Research Experience
 
 ### **Current Research & Engineering**
 
@@ -68,16 +68,16 @@ Prior to my transition to AI Engineering, I held several research appointments f
 
 ---
 
-## 🎓 Education
+## Education
 
-* **M.Sc. in AI Engineering** | *Metropolitan Polytechnic University of Hidalgo* (2025 - 2027)
+* **M.Eng. in AI Engineering** | *Metropolitan Polytechnic University of Hidalgo* (2025 - 2027)
 * **B.A. in Sociology (Complexity Specialization)** | *Universidad Autónoma del Estado de Hidalgo*
     * **GPA:** 9.75 / 10 (High Honors)
     * **Thesis Focus:** Systemic impact of external shocks (COVID-19) on socio-economic indicators.
 
 ---
 
-## 💻 Technical Stack
+## Technical Stack
 
 | Domain | Tools & Frameworks |
 | :--- | :--- |
