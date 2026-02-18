@@ -105,7 +105,7 @@ My transition to AI Engineering is grounded in a rigorous background in sociolog
 > * **Focus:** Applied Machine Learning pipelines and deployment strategies.
 > * **Reason for Transfer:** To shift focus from application-layer development to the mathematical foundations of AI and Complex Systems engineering.
 
-### **Bachelor of Arts in Sociology**
+### **Bachelor of Social Science in Sociology**
 **Universidad Autónoma del Estado de Hidalgo (UAEH)** | *2018 - 2022*
 > **Specialization:** Complexity Theory & Quantitative Methods.
 > * **Honors:** Graduated with High Honors (**GPA: 9.75 / 10**).
