@@ -91,10 +91,25 @@ My transition to AI Engineering is grounded in a rigorous background in sociolog
 
 ## IV. Education
 
-* **M.Sc. in AI Engineering** | *Metropolitan Polytechnic University of Hidalgo* (2025 - 2027)
-* **B.A. in Sociology (Complexity Specialization)** | *Universidad Autónoma del Estado de Hidalgo*
-    * **Honors:** GPA 9.75 / 10.
-    * **Thesis:** Analyzing the Discourse of Bussinessman and The Reproduction of The Logic of Merit.
+### **Master of Science in Artificial Intelligence Engineering**
+**Metropolitan Polytechnic University of Hidalgo (UPMH)** | *2025 - 2027 (Expected)*
+(**GPA: 9.75 / 10**).
+> **Focus:** Mathematical Modeling & Systemic Robustness.
+> * **Research Track:** Specialized in the engineering of reliable AI systems. My thesis focuses on the intersection of Control Theory and Machine Learning for anomaly detection in high-entropy environments.
+> * **Key Coursework:** Advanced Mathematical Programming, Complex Systems Theory, Stochastic Processes.
+
+### **Master in Applied Artificial Intelligence (MIA)**
+**Tecnológico de Monterrey (ITESM)** | *2023 - 2024*
+(**GPA: 9.00 / 10**).
+> **Strategic Transfer:** *Completed foundational coursework (Core AI & Data Science) at Latin America's top-ranked private university before transferring to UPMH to pursue a specialized "Hard Engineering" and Research track.*
+> * **Focus:** Applied Machine Learning pipelines and deployment strategies.
+> * **Reason for Transfer:** To shift focus from application-layer development to the mathematical foundations of AI and Complex Systems engineering.
+
+### **Bachelor of Arts in Sociology**
+**Universidad Autónoma del Estado de Hidalgo (UAEH)** | *2018 - 2022*
+> **Specialization:** Complexity Theory & Quantitative Methods.
+> * **Honors:** Graduated with High Honors (**GPA: 9.75 / 10**).
+> * **Thesis:** *"Discourse Analysis: Reproduction of the Logic of Merit in Communicational Systems The case of the Bussinessman (Coparmex)*"
 
 ---
 
