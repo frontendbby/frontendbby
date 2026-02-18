@@ -107,7 +107,7 @@ Currently pursuing a specialized research track in **Mathematical Modeling & Sys
 **Tecnológico de Monterrey (ITESM)** | *2023 - 2024*
 Executed a **Strategic Transfer** after completing foundational coursework (Core AI & Data Science) at Latin America's top-ranked private university. This decision was driven by a research objective to shift focus from application-layer development to the "Hard Engineering" and mathematical foundations of Complex Systems available at UPMH.
 
-### **Bachelor of Arts in Sociology**
+### **Bachelor of Social Sciences in Sociology (MSc)**
 **Universidad Autónoma del Estado de Hidalgo (UAEH)** | *2018 - 2022*
 Graduated with **High Honors (GPA: 9.75 / 10)** with a specialization in Complexity Theory & Quantitative Methods.
 
