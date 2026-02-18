@@ -114,7 +114,7 @@ Graduated with **High Honors (GPA: 9.75 / 10)** with a specialization in Complex
 **Key Academic Output:**
 Authored the publication *"La retórica del mérito en el discurso oficialista de la Confederación Patronal de la República Mexicana (COPARMEX) 2020-2022"*, an analysis of discourse structures using quantitative text processing.
 
-[![Read Publication](https://img.shields.io/badge/Read_Publication-External_Link-181717?style=flat-square&logo=readthedocs)](http://dgsa.uaeh.edu.mx:8080/handle/231104/3101)
+[![Read Publication]([https://img.shields.io/badge/Read_Publication-External_Link-181717?style=flat-square&logo=readthedocs)(http://dgsa.uaeh.edu.mx:8080/jspui/bitstream/231104/3101/1/AT26690.pdf))
 
 ---
 
