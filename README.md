@@ -36,9 +36,14 @@ I designed a detection framework for the California market, evaluating three con
 * **Outcome:** Prioritized **Recall** over Accuracy, resulting in a **600% increase in the detection rate**, directly optimizing technical reserves and preventing systemic capital leakage.
 
 **Mathematical Foundation (Gradient Boosting Optimization):**
+**Mathematical Foundation (Gradient Boosting Optimization):**
 To correct residual biases in real-time, the model minimizes the regularized objective function:
-$$\mathcal{L}(\phi) = \sum_{i} l(\hat{y}_i, y_i) + \sum_{k} \Omega(f_k)$$
-Where $\Omega(f_k) = \gamma T + \frac{1}{2}\lambda ||w||^2$ controls the complexity of the trees, preventing overfitting in the sparse, high-dimensional feature space.
+
+$$
+\mathcal{L}(\phi) = \sum_{i} l(\hat{y}_i, y_i) + \sum_{k} \Omega(f_k)
+$$
+
+Where $\Omega(f_k) = \gamma T + \frac{1}{2}\lambda ||w||^2$ controls the complexity of the trees, preventing overfitting in the sparse, high-dimensional feature space..
 
 ### 2. Phenotypic Classification of Neurofibromatosis Type 1 (NF1)
 *Role: Learning Specialization Project*
