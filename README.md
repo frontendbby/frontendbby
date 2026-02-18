@@ -23,7 +23,7 @@ Unlike traditional engineering approaches that view data in isolation, I treat d
 ## II. Selected Research Implementations
 
 ### 1. Systemic Anomaly Detection in InsurTech Ecosystems
-*Role: Lead Research Engineer (Shift Technology)*
+*Role: Data Quality Analyst (Shift Technology)*
 
 **The Systemic Challenge:**
 Fraud in insurance markets does not manifest as linear outliers but as complex topological clusters within highly imbalanced datasets. Standard classification fails to capture the minority class without compromising the systemic validity of the model (False Positives).
