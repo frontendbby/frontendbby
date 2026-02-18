@@ -77,7 +77,7 @@ My transition to AI Engineering is grounded in a rigorous background in sociolog
 | **Role & Institution** | **Research Focus** |
 | :--- | :--- |
 | **Data Quality Engineer**<br>Shift Technology (2024 - Present) | **Algorithmic Governance:** Architecting privacy-preserving pipelines (GDPR) and mining unstructured data (NoSQL) to ensure contextual integrity in fraud models. |
-| **Visiting Research Fellow**<br>University of Essex (2023 - 2024) | **Computational Social Science:** Applied advanced statistical techniques to large-scale datasets to identify emergent patterns in behavioral data. |
+| **Visiting Research Fellow - Summer School **<br>University of Essex (2023 - 2024) | **Computational Social Science:** Applied advanced statistical techniques to large-scale datasets to identify emergent patterns in behavioral data. |
 | **Metric Design Evaluator**<br>Institute of Social Development (2021) | **Systemic Evaluation:** Designed quantitative indicators to evaluate the efficacy of the "Hidalgo Model of Care", bridging public policy with statistical evaluation. |
 | **Research Fellow**<br>UNESCO / COLMEX / CLACSO (2020) | **Structural Analysis:** Selected for the "Inequalities and Youth in Latin America" project. Analyzed systemic stratification variables to understand precariousness in emerging demographics. |
 | **Digital Sociology Researcher**<br>UNAM (2019) | **Onlife Systems:** Investigated digital environments, analyzing the feedback loops between online platforms and youth subjectivity. |
@@ -89,7 +89,7 @@ My transition to AI Engineering is grounded in a rigorous background in sociolog
 * **M.Sc. in AI Engineering** | *Metropolitan Polytechnic University of Hidalgo* (2025 - 2027)
 * **B.A. in Sociology (Complexity Specialization)** | *Universidad Autónoma del Estado de Hidalgo*
     * **Honors:** GPA 9.75 / 10.
-    * **Thesis:** Systemic impact of external shocks (COVID-19) on socio-economic indicators.
+    * **Thesis:** Analyzing the Discourse of Bussinessman and The Reproduction of The Logic of Merit.
 
 ---
 
